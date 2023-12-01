@@ -1,0 +1,8 @@
+  nordektestnet:
+  name: nordektestnet
+  chainId: 58875
+  domainId: 58875
+  protocol: ethereum
+  rpcUrls:
+    - http: https://testnet-rpc.nordekscan.com/
+

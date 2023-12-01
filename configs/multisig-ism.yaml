@@ -1,0 +1,16 @@
+nordektestnet:
+  type: messageIdMultisigIsm
+  threshold: 1
+  validators:
+    - "0xBbefc461F6D944932EEea9C6d4c26C21e9cCeFB8"
+alfajores:
+  type: messageIdMultisigIsm
+  threshold: 1
+  validators:
+    - "0xBbefc461F6D944932EEea9C6d4c26C21e9cCeFB8"
+sepolia:
+  type: messageIdMultisigIsm
+  threshold: 1
+  validators:
+    - "0xBbefc461F6D944932EEea9C6d4c26C21e9cCeFB8"
+
